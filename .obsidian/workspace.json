@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3408eb5f375bd5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dato.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variabili.md",
+                "file": "Dato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variabili.md",
+                "file": "Dato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variabili.md"
+                "file": "Dato.md"
               }
             }
           }
@@ -137,6 +150,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40e3b3445383a678",
-  "lastOpenFiles": []
+  "active": "3408eb5f375bd5c5",
+  "lastOpenFiles": [
+    "Variabili.md"
+  ]
 }
