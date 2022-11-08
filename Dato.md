@@ -7,3 +7,9 @@ L'unica novità è che può essere usato il carattere `_` come separatore per le
 I numeri __floating point__ sono una rappresentazione _approssimata_ dei numeri reali.
 Per esempio: `2.73`, `-3.14`, `5.0`, `4e7`. Da notare che si può usare la notazione scientifica per i grandi float, infatti `4e7` è la rappresentazione di `4 * 10 ^ 7`.
 
+#### Carattere
+Il tipo `char` è usato per rappresentare un singolo __carattere__ della tabella ASCII.
+I `char` devono essere scritti tra due singoli apici, es. `var prova: char = 'a'`
+
+#### Stringa
+Le __stringhe__ possono essere descritte come una serie di caratteri, il loro contenuto deve essere inserito tra due doppi apici, es. `var prova: string = "prova"`
