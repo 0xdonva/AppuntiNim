@@ -6,3 +6,4 @@ L'unica novità è che può essere usato il carattere `_` come separatore per le
 #### Float
 I numeri __floating point__ sono una rappresentazione _approssimata_ dei numeri reali.
 Per esempio: `2.73`, `-3.14`, `5.0`, `4e7`. Da notare che si può usare la notazione scientifica per i grandi float, infatti `4e7` è la rappresentazione di `4 * 10 ^ 7`.
+
