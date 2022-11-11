@@ -13,3 +13,5 @@ I `char` devono essere scritti tra due singoli apici, es. `var prova: char = 'a'
 
 #### Stringa
 Le __stringhe__ possono essere descritte come una serie di caratteri, il loro contenuto deve essere inserito tra due doppi apici, es. `var prova: string = "prova"`
+
+##### Caratteri speciali
