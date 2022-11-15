@@ -3,5 +3,6 @@
   "spellcheckLanguages": [
     "it",
     "en-GB"
-  ]
+  ],
+  "promptDelete": false
 }
